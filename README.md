@@ -40,12 +40,5 @@ We dive into clustering techniques for fraud detection, focusing on **density-ba
 
 This project is licensed under the **MIT License**. You are free to use and modify the code for personal or commercial purposes, but please provide appropriate attribution. 📜
 
----
-
-## 🙏 Acknowledgments
-
-The author of this paper would like to express sincere gratitude to his supervisor Professor. X whose insight and guidance were the essential part in the development of the this research  . 💡
-
----
 
 ### ZIRADDINGULUMJANLI2024
