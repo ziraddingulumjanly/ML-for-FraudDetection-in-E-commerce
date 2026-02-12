@@ -1,6 +1,6 @@
-#  Machine Learning for Fraud Detection in E-commerce 🚨
+#  Machine Learning for Fraud Detection in E-commerce 
 
-This project dives into the exciting world of **machine learning** 📊 and its application in **fraud detection**. We analyze and compare various supervised and unsupervised learning algorithms through detailed case studies, using real-world datasets. You'll find Python implementations 🐍 along with insights into how these models perform when tasked with detecting fraudulent behavior.
+This project dives into the exciting world of **machine learning**  and its application in **fraud detection**. We analyze and compare various supervised and unsupervised learning algorithms through detailed case studies, using real-world datasets. You'll find Python implementations  along with insights into how these models perform when tasked with detecting fraudulent behavior.
 
 The project is divided into three major case studies, each showcasing different machine learning approaches: **Random Forest**, **Comparative Supervised Methods** (Logistic Regression, Naive Bayes, and Decision Trees), and **Unsupervised Learning** with clustering techniques.
 
